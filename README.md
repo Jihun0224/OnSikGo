@@ -30,19 +30,19 @@
 
 ## Project&nbsp;Period
 
-SSAFY 7기 2학기 공통 프로젝트  
+SSAFY 7기 2학기 공통 프로젝트 (우수프로젝트 수상🥈)  
 2022.07.04 ~ 2022.08.19
 
 ## Contributors
 
-| 팀원   | 역할           | 비고 | 깃헙                            |
+| 팀원   | 역할           | 담당 | 깃헙                            |
 | ------ | -------------- | ---- | ------------------------------- |
-| 장창완 | 팀장, Frontend |      | https://github.com/jangchangwan |
-| 김가흔 | Frontend       |      | https://github.com/gheun0712    |
-| 이동근 | Frontend       |      | https://github.com/move-geun    |
-| 최지은 | Frontend       |      | https://github.com/zzieunchoi   |
-| 공지훈 | Backend        |      | https://github.com/Jihun0224    |
-| 손효재 | Backend        |      | https://github.com/hyojhand     |
+| 장창완 | 팀장, Frontend |  UI / UX 설계 및 개발, Kakao Map  | https://github.com/jangchangwan |
+| 김가흔 | Frontend       | UI / UX 설계 및 개발, UCC 제작  | https://github.com/gheun0712    |
+| 이동근 | Frontend       | UI / UX 설계 및 개발, Base CSS 설계   | https://github.com/move-geun    |
+| 최지은 | Frontend       | UI / UX 설계 및 개발, 중간 및 최종발표   | https://github.com/zzieunchoi   |
+| 공지훈 | Backend        |  API 설계 및 개발, DB 설계 및 관리, 자동 빌드 배포    | https://github.com/Jihun0224    |
+| 손효재 | Backend        |   API 설계 및 개발, DB 설계 및 관리   | https://github.com/hyojhand     |
 
 ## 사용&nbsp;스택
 
