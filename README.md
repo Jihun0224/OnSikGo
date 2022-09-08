@@ -63,8 +63,8 @@ SSAFY 7기 2학기 공통 프로젝트 (우수프로젝트 수상🥈)
 - [기능명세서](./기획/기능명세서)
 - [ERD](./기획/ERD)
 - [사용설명서](./기획/사용설명서)
-- [서비스&nbsp;아키텍처](./기획/서비스 아키텍처)
-- [서비스&nbsp;흐름도](./기획/서비스 흐름도)
+- [서비스&nbsp;아키텍처](https://github.com/Jihun0224/OnSikGo/tree/main/%EA%B8%B0%ED%9A%8D/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+- [서비스&nbsp;흐름도](https://github.com/Jihun0224/OnSikGo/tree/main/%EA%B8%B0%ED%9A%8D/%EC%84%9C%EB%B9%84%EC%8A%A4%20%ED%9D%90%EB%A6%84%EB%8F%84)
 - [와이어프레임](./기획/와이어프레임)
 
 ## 프로젝트&nbsp;결과물
